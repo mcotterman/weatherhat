@@ -1,0 +1,6 @@
+MQTT_SERVER=weatherdisplay
+MQTT_PORT=1883
+MQTT_USERNAME=weather
+MQTT_PASSWORD=weatherpassword
+MQTT_TOPIC=weather/data
+WEATHER_UPDATE_FREQ=30
